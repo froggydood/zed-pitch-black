@@ -1,0 +1,7 @@
+id = "pitch-black-theme"
+name = "Pitch Black Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Fergus Armstrong <froggydood>"]
+description = "A pitch black theme"
+repository = "https://github.com/froggydood/zed-pitch-black"
