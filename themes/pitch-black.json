@@ -90,6 +90,7 @@
 				"tab.active_background": "#ffffff02",
 				"toolbar.background": "#000",
 				"terminal.background": "#000",
+				"success": "#0000ff",
 				"syntax": {
 					"attribute": {
 						"color": "#4EC9B0",
